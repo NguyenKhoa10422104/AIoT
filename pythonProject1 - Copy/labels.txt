@@ -1,0 +1,3 @@
+0 face
+1 hands with face
+2 background
